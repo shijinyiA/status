@@ -1,9 +1,9 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://shijinyia-uptime-kuma.hf.space/status/jinyi",
-      "permanent": true
+      "destination": "https://shijinyia-uptime-kuma.hf.space/status/jinyi"
     }
   ]
 }
+
