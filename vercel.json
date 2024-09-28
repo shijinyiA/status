@@ -1,4 +1,19 @@
 {
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Origin",
+          "value": "https://status.jinyi.icu"
+        },
+        {
+          "key": "Referer",
+          "value": "https://status.jinyi.icu"
+        }
+      ]
+    }
+  ],
   "rewrites": [
     {
       "source": "/(.*)",
@@ -6,4 +21,3 @@
     }
   ]
 }
-
