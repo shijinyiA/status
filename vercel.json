@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://shijinyia-uptime-kuma.hf.space/status/jinyi",
+      "permanent": true
+    }
+  ]
+}
